@@ -1,2 +1,2 @@
 # CommunistDeclarationIndependence
-Declaration of Independence + Communist Manifesto Twitter Bot
+Rewrites sentences from the Declaration of Independence by inserting nouns, verbs, and adjectives from the Communist Manifesto.
